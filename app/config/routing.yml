@@ -1,0 +1,7 @@
+front:
+    resource: "@NukedKlanFrontBundle/Resources/config/routing.yml"
+    prefix:   /
+
+back:
+    resource: "@NukedKlanBackBundle/Resources/config/routing.yml"
+    prefix:   /admin
